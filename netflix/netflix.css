@@ -1,0 +1,145 @@
+*
+{
+margin:0%;
+padding:0%;
+box-sizing:border-box;
+}
+body
+{
+	width:100%;
+	height:100vh;
+	background-image:linear-gradient(90deg, rgba(9,9,9,0.577468487394958) 0%, rgba(1,1,1,0.4682247899159664) 100%, rgba(1,1,1,0.8379726890756303) 100%, rgba(0,0,0,1) 100%, rgba(9,9,121,1) 100%),url('image/banner.jpg');
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	overflow:hidden;
+	
+}	
+.logo
+{
+	height:150px;
+	width:150px;
+	position:absolute;
+	left:30px;
+}
+.form
+{
+	height:650px;
+	width:480px;
+	position:absolute;
+	top:12%;
+	left:35%;
+	background:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.9));
+}
+.form-contain 
+{
+	
+	margin:50px auto;
+	height:550px;
+	width:380px;
+	left:37%;
+	top:50px;
+}
+h1
+{
+	color:white;
+	font-family:bold;
+	position:absolute;
+	left:21%;
+	top:8%;
+}
+.inputs
+{ 
+margin-top:8%;
+}
+input
+{
+	width:65%;
+	height:55px;
+	border:1px solid white;
+	color:white;
+	background:none;
+	
+	border-radius:10px;
+	position:relative;
+	transform:translate(-50% -50%);
+	left:20%;
+	top:-542px;
+}
+::placeholder 
+{
+padding-left:25px;
+
+}	
+h2
+{
+	font-family:bold;
+	position:absolute;
+	top:50%;
+	left:47%;
+	color:white;
+	
+}
+.sign-in
+{
+	width:65%;
+	height:50px;
+	font-size:20px;
+	color:white;
+	
+}
+value
+{
+position:absolute;
+left:20px;
+}
+h3
+{
+    color:white;
+	text-align:center;
+	position:absolute;
+	top:65%;
+	left:35%;
+}
+.checks
+{
+	height:20px;
+	width:20px;
+	position:absolute;
+	top:72%;
+}
+span
+{
+	color:white;
+	position:absolute;
+	top:72%;
+	left:25%;
+	font-size:20px;
+	
+}
+p
+{
+	font-size:20px;
+	position:absolute;
+	top:77%;
+	left:20%;
+}
+.p
+{
+   font-size:20px;
+	position:absolute;
+	top:77%;
+	left:47%;	
+}
+.text
+{
+    font-size:13px;
+	position:absolute;
+	top:84%;
+	left:20%;	
+	width:248px;
+}
+
+
+	
+	
