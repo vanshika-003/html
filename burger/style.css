@@ -1,0 +1,73 @@
+*
+{
+margin:0%;
+padding:0%;
+box-sizing:border-box;
+}
+body
+{
+	background-color:black;
+}	
+.box
+{
+	background:  linear-gradient(90deg, rgba(9,9,9,0.577468487394958) 0%, rgba(1,1,1,0.4318102240896359) 100%, rgba(1,1,1,0.8379726890756303) 100%, rgba(0,0,0,1) 100%, rgba(9,9,121,1) 100%),url("image/burgerking.jpg");
+	background-color:aqua;
+	height:450px;
+	width:50%;
+	position:absolute;
+	top:15%;
+	left:25%;
+	
+}
+.logo
+{
+	background-image:url("image/logo.png");
+	height:130px;
+	width:130px;
+	position:absolute;
+	background-size:cover;
+	top:18%;
+	right:26%;
+}
+.text
+{
+	font-family:airal;
+	font-size:60px;
+	color:white;
+	position:absolute;
+	top:17%;
+	left:27%;
+	
+}
+.texts
+{
+	font-family:airal;
+	font-size:60px;
+	color:white;
+	position:absolute;
+	top:89%;
+	left:2%;
+	width:500px;
+}
+.content
+{
+font-family:airal;
+	font-size:40px;
+	color:white;
+	position:absolute;
+	top:89%;
+	left:0%;
+	width:800px;	
+}
+.box1
+{
+	background-color:red;
+	height:60px;
+	width:40%;
+	border:0px;
+	position:absolute;
+	top:200px;
+	left:3px;
+	font-size:32px;
+	font-family:airal;
+}
